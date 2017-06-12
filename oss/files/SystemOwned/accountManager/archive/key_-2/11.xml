@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.profile.AccountBean">
+  <ObjectBean identifier="11" archiveYwd="0" groupKey="-2" created="1454758056221" modified="1454758116568" owner="SystemOwned" serialVersionUID="20100713103" />
+  <AccountBean accountRef="accountRef16" notes="notes17" status="ACTIVE" fixedItemDiscountRate="19" contract="true" paymentPeriod="NO_VALUE" regularPaymentInstruction="regularPaymentInstruction22" paymentPeriodValue="1023" serialVersionUID="20101103100" />
+</Oathouse>

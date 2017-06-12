@@ -1,0 +1,784 @@
+============================================
+       Project Name = ToddlenomicsApi
+============================================
+
+Release Version: @major@.@minor@.@iteration@  [@date@]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.054  [2016-02-06 14:25]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.053  [2015-03-23 17:33]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.052  [2015-03-14 23:58]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.051  [2015-03-14 23:16]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.050  [2014-12-22 17:33]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.049  [2014-12-07 19:22]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.042  [2014-10-01 03:24]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.041  [2014-10-01 03:21]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.040  [2014-10-01 03:16]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.038  [2014-10-01 01:53]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.034  [2014-04-14 11:55]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.033  [2014-04-01 19:56]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+<<<<<<< .mine
+<<<<<<< .mine
+Release Version: 3.02.018  [2014-01-08 19:07]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.017  [2014-01-08 17:48]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+=======
+=======
+Release Version: 3.02.032  [2014-03-19 17:00]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.031  [2014-03-19 16:46]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.030  [2014-03-18 00:26]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.029  [2014-03-04 02:00]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.028  [2014-03-04 01:53]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+Release Version: 3.02.027  [2014-03-01 16:04]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+            
+>>>>>>> .r907
+Release Version: 3.02.025  [2014-01-28 11:01]
+=============================================
+[RELEASE SUMMARY]
+The setRestrictedBookings was not returning NO_CHARGE bookings so was not able to reconcile properly
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+>>>>>>> .r906
+Release Version: 3.02.014  [2014-01-07 15:10]
+=============================================
+[RELEASE SUMMARY]
+Small bug when generating billing:
+- does not ignore zero value reconciled bookings
+- tries to look for a booking when forecasting on a fake booking
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.02.010  [2014-01-05 23:44]
+=============================================
+[RELEASE SUMMARY]
+Add maintenance methods.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.124  [2013-11-13 13:50]
+=============================================
+[RELEASE SUMMARY]
+Major change to Billing.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.123  [2013-11-13 13:43]
+=============================================
+[RELEASE SUMMARY]
+Found a bug in the loyalty discount calculations. Removed the referencing to existing billings
+and calculated everything on the fly. This will then work with future predicted billing
+to the point of invoice.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.109  [2013-10-03 22:50]
+=============================================
+[RELEASE SUMMARY}
+When changing the leaving date and there is booking that are authorised or reconciled it throws an error
+now that is ignored if the child is leaving.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.106  [2013-09-14 20:25]
+=============================================
+[RELEASE SUMMARY]
+Addition of the system property loyaltyApplyedToEducationDays. Also add the choice
+when creating loyalties to include them even on funded days
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.100  [2013-09-08 16:21]
+=============================================
+[RELEASE SUMMARY]
+Bug Fix: Changed DayRangeManager to return a default Object when not found.
+         The is isDayChildEducationTimetable(...) still relied on null being returned
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.096  [2013-09-04 12:47]
+=============================================
+[RELEASE SUMMARY]
+Change IMMEDIATE_REFUND to IMMEDIATE_RECALC for both the ActionBits and the BookingType flag.
+Fixed the code to ensure the RECALC flag was correctly picked when setInvoiceRestrictions() was run.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.090  [2013-08-23 16:33]
+=============================================
+[RELEASE SUMMARY]
+small bug in BookingForcast not dealing with null
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.089  [2013-08-11 15:06]
+=============================================
+[RELEASE SUMMARY]
+Bug Fix on Booking Requests
+- when removing Booking Requests globally was checking the child booking request when no check is needed
+- when checking a booking request removable no accountId was being provided
+(fail safe as in theory no booking request should be the same Id.
+
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.087  [2013-08-11 14:29]
+=============================================
+[RELEASE SUMMARY]
+Changed how spanSD worked when replacing a booking. If the previous booking
+was NO_CHARGE then the spanSD is reset to the new bookingSd, otherwise normal
+rules apply.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.081  [2013-08-04 13:48]
+=============================================
+[RELEASE SUMMARY]
+Small bug with BillingBits corrected
+Enhanced the way reconciled billings are checked and modified to cater for minus calculations
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.076  [2013-07-31 14:11]
+=============================================
+[RELEASE SUMMARY]
+Change to Funded so it is calculated as a single value
+Addition of part built ReconciliationService
+Change how the charge is calculated for charging customers.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.072  [2013-07-30 17:18]
+=============================================
+[RELEASE SUMMARY]
+changed the ChildService.removeAccount() to include transaction removing
+included TransactionService removal of all things related to an account.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.067  [2013-07-26 11:48]
+=============================================
+[RELEASE SUMMARY]
+Fixed isChildRemovable() logic error
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.059  [2013-07-21 14:26]
+=============================================
+[RELEASE SUMMARY]
+Addition of Global Booking Requests
+Fix Loyalty Discounts being applied to funded days
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.051  [2013-07-11 22:21]
+=============================================
+[RELEASE SUMMARY]
+- Booking Requests are now a Map with the key being the accountId
+- Created global booking requests that can be copied to accounts.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.050  [2013-07-08 09:58]
+=============================================
+[RELEASE SUMMARY]
+- DayRangeManager amended so no duplicate entries can be added.
+- Change to checkAcountRemovable and checkChildRemovable
+- Remove all final references to CalendarHelper replacing with CalendarStatic
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.043  [2013-06-30 15:40]
+=============================================
+[RELEASE SUMMARY]
+Fix:
+    zero value for creditCardFee
+    zero value for getTotalInvoiceValue
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.022  [2013-06-10 21:50]
+=============================================
+[RELEASE SUMMARY]
+BUG FIX - BookingRequests did not properly deal with departed children
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.015  [2013-06-08 00:35]
+=============================================
+[RELEASE SUMMARY]
+Remove all deprecated
+Add in ARCHIVE to managers that need archiving
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 3.01.007  [2013-05-30 11:40]
+=============================================
+[RELEASE SUMMARY]
+- Remove all the deprecated classes
+- update jdom1 to jdom2 libaries
+- add in the base beans for staff Roster
+
+[RELEASE NOTES]
+improved the build.xml script to do backup zips of the project
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 2.01.010  [2013-04-10 09:54]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+- minor change to session billing creation. a session that
+  reconciles to zero value during the transition from
+  authorised to reconciled will produce a zero value billing.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________
+=============================================
+
+Release Version: 2.01.004  [2013-04-03 10:57]
+=============================================
+
+[RELEASE SUMMARY]
+- Addition of forecasting service.
+- Change of charge model to percent of all bookings
+- Change of ObjectStoreageEnum to ObjectDataOptionsEnum
+
+[RELEASE NOTES]
+- BookingForecastService and ChildBookingModel have a cross over.
+  childBookingModel should be adjusted to deal with total nursery
+  modelling and BookingForecastService with single account modelling.
+
+- getRoomForChild() no longer throws IllegalActionException
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+- BookingManagerTest still has two 'Not Yet Implemented' tests.
+  These manager level methods are working but have low priority
+  so will complete the tests when time allows.
+
+_____________________________________________
+=============================================

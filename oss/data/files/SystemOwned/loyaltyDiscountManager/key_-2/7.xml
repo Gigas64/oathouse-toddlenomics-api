@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.oathouse.ccm.cos.config.finance.LoyaltyDiscountBean">
+  <ObjectBean identifier="7" archiveYwd="0" groupKey="-2" created="1454758124124" modified="1454758124124" owner="SystemOwned" serialVersionUID="20100713103" />
+  <LoyaltyDiscountBean name="name" billingBits="273879040" discount="23" start="-1" duration="1438" serialVersionUID="20120220100">
+    <priorityDays_array>
+      <priorityDays index="0" value="true" />
+      <priorityDays index="1" value="true" />
+      <priorityDays index="2" value="true" />
+      <priorityDays index="3" value="true" />
+      <priorityDays index="4" value="true" />
+      <priorityDays index="5" value="false" />
+      <priorityDays index="6" value="false" />
+    </priorityDays_array>
+  </LoyaltyDiscountBean>
+</Oathouse>

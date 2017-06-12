@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <!-- The language and location where the domain should appear to be -->
+    <!-- examples:
+    <localSettings locale="en_US" timeZone="America/Phoenix" />
+    -->
+    <localSettings locale="en_GB" timeZone="Europe/London" />
+
+    <!-- The resource locator for this domain -->
+    <resourceLocator host="localhost" portPrefix="12" portRange="1" />
+
+    <!-- the connectivity and location of data for this domain -->
+    <dataLocator
+        ossConnection="FILE"
+        ossDataPath="D:/Development/OathouseProjects/ToddlenomicApps/ToddlenomicsWeb/oss/data"
+        ossLogProperties="D:/Development/OathouseProjects/ToddlenomicApps/ToddlenomicsWeb/oss/conf/oss_log4j.properties"
+        localDataPath="D:/Development/OathouseProjects/ToddlenomicApps/ToddlenomicsWeb/oss/local" />
+</service>
