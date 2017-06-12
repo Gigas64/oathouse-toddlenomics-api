@@ -9,7 +9,7 @@ package com.oathouse.ccm.cos.accounts.invoice;
 /**
  * The {@code InvoiceType} Enumeration allows an invoice to be categorised
  *
- * @author  Nick Maunder
+ * @author  Darryl Oatridge
  * @version 1.00 3-Mar-2011
  */
 public enum InvoiceType {

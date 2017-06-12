@@ -5,7 +5,7 @@ package com.oathouse.ccm.cma;
  * the front end
  *
  * <p>&copy;     2012 oathouse.com ltd</p>
- * <p>author:   Nick Maunder</p>
+ * <p>author:   Darryl Oatridge</p>
  * <p>since:    15 July 2012</p>
  */
 public class ApplicationConstants {

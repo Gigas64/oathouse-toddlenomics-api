@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Utility to allow easy set up of testing
- * @author Nick
+ * @author Darryl Oatridge
  */
 public class ServicePoolConfig {
     // Singleton Instance

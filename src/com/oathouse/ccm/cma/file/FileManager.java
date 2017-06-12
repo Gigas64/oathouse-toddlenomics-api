@@ -13,7 +13,7 @@ import com.oathouse.oss.storage.objectstore.ObjectSetStore;
 /**
  * The {@code FileManager} Class extends the methods of the parent class.
  *
- * @author Nick Maunder
+ * @author Darryl Oatridge
  * @version 1.00 7-Apr-2011
  */
 public class FileManager extends ObjectSetStore<FileBean> {

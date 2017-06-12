@@ -13,7 +13,7 @@ import com.oathouse.oss.storage.exceptions.*;
 /**
  * The {@code FinancialService} Class
  *
- * @author Darryl Oatridge and Nick Maunder
+ * @author Darryl Oatridge
  * @version 1.00 28-Nov-2010
  */
 public class FinancialService {

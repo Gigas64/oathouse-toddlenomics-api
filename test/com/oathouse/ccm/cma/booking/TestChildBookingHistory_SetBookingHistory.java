@@ -11,7 +11,7 @@ import org.junit.*;
 
 /**
  *
- * @author Nick
+ * @author Darryl Oatridge
  */
 public class TestChildBookingHistory_SetBookingHistory {
 

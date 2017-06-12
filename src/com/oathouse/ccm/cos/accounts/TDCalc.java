@@ -4,7 +4,7 @@ package com.oathouse.ccm.cos.accounts;
  * Utility to deal with repeated tax and discount calculations
  *
  * <p>&copy; 2011 oathouse.com ltd</p>
- * <p>author: Nick Maunder</p>
+ * <p>author: Darryl Oatridge</p>
  * <p>version: 1.00 31 Jan 2011</p>
  */
 public class TDCalc {

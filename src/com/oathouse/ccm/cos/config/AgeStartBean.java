@@ -16,7 +16,7 @@ import org.jdom2.Element;
 /**
  * The {@code AgeStartBean} Class
  *
- * @author Nick Maunder
+ * @author Darryl Oatridge
  * @version 2.00 14-Dec-2010
  */
 public class AgeStartBean extends ObjectBean {

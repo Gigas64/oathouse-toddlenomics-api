@@ -15,7 +15,7 @@ import com.oathouse.oss.storage.objectstore.ObjectSetStore;
  * The {@code MedicalManager} Class extends the Object manager to enable
  * specific functions
  *
- * @author Nick Maunder
+ * @author Darryl Oatridge
  * @version 1.00 25-May-2010
  */
 public class MedicalManager extends ObjectSetStore<MedicalBean> {

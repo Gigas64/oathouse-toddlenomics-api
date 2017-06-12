@@ -16,7 +16,7 @@ import com.oathouse.oss.storage.objectstore.ObjectSetStore;
  * The {@code AgeStartManager} Class extends the methods of the parent class.
  * accountId - invoiceId
  *
- * @author Nick Maunder
+ * @author Darryl Oatridge
  * @version 1.00 14-Dec-2010
  */
 public class AgeStartManager extends ObjectSetStore<AgeStartBean> {
@@ -28,7 +28,7 @@ public class AgeStartManager extends ObjectSetStore<AgeStartBean> {
      * would be the name of the class
      *
      * @param managerName a unique name to identify the manager.
-     * @param dataOptions 
+     * @param dataOptions
      */
     public AgeStartManager(String managerName, ObjectDataOptionsEnum... dataOptions) {
         super(managerName, dataOptions);

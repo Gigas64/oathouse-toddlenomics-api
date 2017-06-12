@@ -3,7 +3,7 @@ package com.oathouse.ccm.cos.properties;
 /**
  * The {@code RelativeDate} Enumeration
  *
- * @author Nick Maunder
+ * @author Darryl Oatridge
  * @version 1.00 7-Jan-2011
  */
 public enum RelativeDate {

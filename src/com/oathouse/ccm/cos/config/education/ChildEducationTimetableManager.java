@@ -16,7 +16,7 @@ import java.util.concurrent.ConcurrentSkipListSet;
 /**
  * The {@code ChildEducationTimetableManager} Class extends the methods of the parent class.
  *
- * @author Nick Maunder
+ * @author Darryl Oatridge
  * @version 1.00 19-Nov-2010
  */
 public class ChildEducationTimetableManager extends ObjectSetStore<ChildEducationTimetableBean> {
@@ -33,7 +33,7 @@ public class ChildEducationTimetableManager extends ObjectSetStore<ChildEducatio
      * would be the name of the class
      *
      * @param managerName a unique name to identify the manager.
-     * @param dataOptions 
+     * @param dataOptions
      */
     public ChildEducationTimetableManager(String managerName, ObjectDataOptionsEnum... dataOptions) {
         super(managerName, dataOptions);

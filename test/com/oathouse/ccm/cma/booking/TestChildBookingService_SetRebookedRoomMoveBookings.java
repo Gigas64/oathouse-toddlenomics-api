@@ -18,7 +18,7 @@ import static org.hamcrest.CoreMatchers.*;
 
 /**
  *
- * @author Nick
+ * @author Darryl Oatridge
  */
 public class TestChildBookingService_SetRebookedRoomMoveBookings {
 

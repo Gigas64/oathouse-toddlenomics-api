@@ -20,7 +20,7 @@ import org.jdom2.Element;
  * The {@code FileBean} Class is an FileBean to store Image Information.
  *
  *
- * @author      Nick Maunder
+ * @author      Darryl Oatridge
  * @version 	1.00 7-Apr-2011
  */
 public class FileBean extends ObjectBean {

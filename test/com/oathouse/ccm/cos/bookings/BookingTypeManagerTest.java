@@ -250,7 +250,7 @@ public class BookingTypeManagerTest {
     public void unit09_getAllObjectsTest() throws Exception {
         assertEquals(3,manager.getAllObjects(BTBits.HOLIDAY_BIT, BTFlagIdBits.TYPE_FLAG).size());
         assertEquals(12,manager.getAllObjects(BTIdBits.TYPE_IDENTIFIER, BTFlagBits.PREBOOKING_FLAG).size());
-        // Nicks request
+
         manager.setObjectFlagBits(BTIdBits.ATTENDING_SPECIAL, BTFlagBits. BOOKING_CLOSED_FLAG, true, owner);
         int requiredFlags = BTFlagBits.FILTER_MATCH | BTFlagBits.PREBOOKING_FLAG;
         // add anotherflag

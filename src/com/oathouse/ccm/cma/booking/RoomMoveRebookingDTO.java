@@ -14,7 +14,7 @@ import com.oathouse.ccm.cos.config.*;
  *
  * The beans are created on the fly so no persistence is required
  *
- * @author Nick Maunder
+ * @author Darryl Oatridge
  * @since 23 June 2012
  */
 public class RoomMoveRebookingDTO {
